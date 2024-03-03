@@ -24,3 +24,7 @@ Getting Started
 4. Build and run the sample.
 
 All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+
+
+Url Referense
+https://developer.android.com/codelabs/basic-android-kotlin-compose-training-add-scrollable-list?hl=es_419#0
